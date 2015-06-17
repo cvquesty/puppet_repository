@@ -24,3 +24,7 @@ mod "roles",
 mod "profiles",
 	:git => "git://github.com/cvquesty/profiles.git",
 	:ref => 'development'
+
+mod "motd",
+	:git => "git://github.com/cvquesty/motd.git",
+	:ref => 'development'
