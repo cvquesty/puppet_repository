@@ -12,6 +12,7 @@ mod "jfryman/nginx"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/apt"
 mod "puppetlabs/concat"
+mod "puppetlabs/apache"
 
 mod "users",
 	:git => "git://github.com/cvquesty/users.git",
