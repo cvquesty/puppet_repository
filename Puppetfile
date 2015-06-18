@@ -30,6 +30,6 @@ mod "motd",
 	:git => "git://github.com/cvquesty/motd.git",
 	:ref => 'development'
 
-mod "ourweb"
+mod "ourweb",
 	:git => "git://github.com/cvquesty/ourweb.git",
 	:ref => 'development'
