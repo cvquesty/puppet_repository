@@ -1,2 +1,4 @@
 ---
-message: "This node is using default data."
+message : "This node is using default data."
+pduser  : 'vagrant'
+pdgroup : 'vagrant'
