@@ -33,7 +33,3 @@ mod "motd",
 mod "ourweb",
 	:git => "git://github.com/cvquesty/ourweb.git",
 	:ref => 'development'
-
-mod "puppetdev",
-	:git => "https://github.com/cvquesty/puppetdev.git",
-	:ref => 'development'
