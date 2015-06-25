@@ -14,6 +14,10 @@ mod "puppetlabs/apt"
 mod "puppetlabs/concat"
 mod "puppetlabs/apache"
 
+mod "puppetdev",
+	:git => "git://github.com/cvquesty/puppetdev.git",
+	:ref => 'development'
+
 mod "users",
 	:git => "git://github.com/cvquesty/users.git",
 	:ref => 'development'
@@ -32,8 +36,4 @@ mod "motd",
 
 mod "ourweb",
 	:git => "git://github.com/cvquesty/ourweb.git",
-	:ref => 'development'
-
-mod "puppetdev",
-	:git => "git://github.com/cvquesty/puppetdev.git",
 	:ref => 'development'
