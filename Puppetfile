@@ -13,10 +13,10 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/apt"
 mod "puppetlabs/concat"
 
-mod "users",
-	:git => "git://github.com/cvquesty/users.git",
-	:ref => 'production'
-
 mod "puppetdev",
   :git => "git://github.com/cvquesty/puppetdev.git",
   :ref => 'production'
+
+mod "users",
+	:git => "git://github.com/cvquesty/users.git",
+	:ref => 'production'
