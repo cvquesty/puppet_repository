@@ -20,3 +20,7 @@ mod "puppetdev",
 mod "users",
 	:git => "git://github.com/cvquesty/users.git",
 	:ref => 'testing'
+
+mod "ourweb",
+  :git => "git://github.com/cvquesty/ourweb.git",
+  :ref => 'testing'
