@@ -16,7 +16,3 @@ mod "puppetlabs/concat"
 mod "puppetdev",
   :git => "git://github.com/cvquesty/puppetdev.git",
   :ref => 'production'
-
-mod "users",
-	:git => "git://github.com/cvquesty/users.git",
-	:ref => 'production'
