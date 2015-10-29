@@ -21,3 +21,7 @@ mod "puppetdev",
 mod "samplefile",
 	:git => "git://github.com/cvquesty/samplefile.git",
 	:ref => 'development'
+
+mod "ourweb",
+	:git => "git://github.com/cvquesty/ourweb.git",
+	:ref => 'development'
