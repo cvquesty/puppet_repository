@@ -17,3 +17,7 @@ mod "puppetlabs/apache"
 mod "puppetdev",
 	:git => "git://github.com/cvquesty/puppetdev.git",
 	:ref => 'development'
+
+mod "samplefile",
+	:git => "git://github.com/cvquesty/samplefile.git",
+	:ref => 'development'
