@@ -14,5 +14,5 @@ mod "puppetlabs/apt"
 mod "puppetlabs/concat"
 
 mod "puppetdev",
-  :git => "git://github.com/cvquesty/puppetdev.git",
+  :git => "https://github.com/cvquesty/puppetdev.git",
   :ref => 'production'
