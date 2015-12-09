@@ -15,21 +15,21 @@ mod "puppetlabs/concat"
 mod "puppetlabs/apache"
 
 mod "puppetdev",
-	:git => "git://github.com/cvquesty/puppetdev.git",
+	:git => "https://github.com/cvquesty/puppetdev.git",
 	:ref => 'development'
 
 mod "samplefile",
-	:git => "git://github.com/cvquesty/samplefile.git",
+	:git => "https://github.com/cvquesty/samplefile.git",
 	:ref => 'development'
 
 mod "ourweb",
-	:git => "git://github.com/cvquesty/ourweb.git",
+	:git => "https://github.com/cvquesty/ourweb.git",
 	:ref => 'development'
 
 mod "roles",
-	:git => "git://github.com/cvquesty/roles.git",
+	:git => "https://github.com/cvquesty/roles.git",
 	:ref => 'development'
 
 mod "profiles",
-	:git => "git://github.com/cvquesty/profiles.git",
+	:git => "https://github.com/cvquesty/profiles.git",
 	:ref => 'development'
