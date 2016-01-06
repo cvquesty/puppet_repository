@@ -1,7 +1,2 @@
 ---
 message : "This node is using default data."
-pdusers :
-- pduser  : 'vagrant'
-  pdgroup : 'vagrant'
-- pduser  : 'jsheets'
-  pdgroup : 'jsheets'

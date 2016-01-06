@@ -1,4 +1,2 @@
 ---
 message         : "This node is using development data."
-webport         : 8000
-motd            : "Go suck an egg!"
